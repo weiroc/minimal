@@ -10,6 +10,7 @@ author:
 #  使用site.url仅内部的网络馈源模板（外部需要完整的含协议的URL）
 
 path: /minimal
+baseurl: /minimal
 url:  " "
 
 ########
